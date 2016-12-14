@@ -10,7 +10,8 @@
 h1 {text-align: center;
 	margin-bottom: 50px;
 text-decoration: underline;
-text-transform: uppercase;}
+text-transform: uppercase;
+font-size: 175%;}
 p {width: 95%;
 	height:60%;
 	margin-top: 30px;
@@ -35,17 +36,20 @@ width:30%;
 background-color:pink;
 text-align: center;
 position: relative;
+font-size: 125%;
 }
 .beef {border: 1px solid black;
 float: right;
 width:30%;
 background-color:red;
-text-align: center;}
+text-align: center;
+font-size: 125%;}
 .sushi {border: 1px solid black;
 float:right;
 width:30%;
 background-color:violet;
-text-align: center;}
+text-align: center;
+font-size: 125%;}
 
 
 /*Desktop view*/
